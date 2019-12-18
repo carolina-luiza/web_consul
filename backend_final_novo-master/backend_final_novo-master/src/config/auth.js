@@ -1,4 +1,4 @@
 module.exports = {
     secret: "Consultorio",
-    ttl: "1d"
+    ttl: "2d"
 };
